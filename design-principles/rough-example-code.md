@@ -222,6 +222,6 @@ module Foo
       |> lookupKV
       |> bind case
         Just h  -> validateHash password h
-        Nothing -> return False
+        Nothing -> return Falseu
 ```
 
