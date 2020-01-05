@@ -10,9 +10,12 @@ A name that's friendly, playful, and suggests imagery sets a good precedent for 
 * Whimsy \(`foo.wsy`\)
 * Rainbow \(`foo.rbw` \)
 * Prime \(`foo.prm`\)
+* Rhyme \(`foo.rym`\)
 * Unicorn \(`foo.uncrn`\)
 * Aura \(`foo.aura`\)
 * Discovery \(`foo.dvr`\)
 * Radiant \(`foo.rad`\)
 * Human \(`foo.hmn`\)
+
+
 
