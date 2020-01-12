@@ -11,11 +11,13 @@ A name that's friendly, playful, and suggests imagery sets a good precedent for 
 * Rainbow \(`foo.rbw` \)
 * Prime \(`foo.prm`\)
 * Rhyme \(`foo.rym`\)
+* Twist \(`foo.twst`\)
 * Unicorn \(`foo.uncrn`\)
 * Aura \(`foo.aura`\)
 * Discovery \(`foo.dvr`\)
 * Radiant \(`foo.rad`\)
 * Human \(`foo.hmn`\)
+* Atomic \(`foo.atom`\)
 
 
 
