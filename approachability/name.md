@@ -12,6 +12,7 @@ A name that's friendly, playful, and suggests imagery sets a good precedent for 
 * Prime \(`foo.prm`\)
 * Rhyme \(`foo.rym`\)
 * Twist \(`foo.twst`\)
+* Lush \(`foo.lush`\)
 * Unicorn \(`foo.uncrn`\)
 * Aura \(`foo.aura`\)
 * Discovery \(`foo.dvr`\)
